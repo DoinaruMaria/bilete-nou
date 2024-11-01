@@ -1,2 +1,2 @@
-# qr-code
+# bilete
  Events tickets with QR Code
